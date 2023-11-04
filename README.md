@@ -2,4 +2,5 @@
 
 ### [Live Site] (https://next-js-website-blue.vercel.app/)
 
-![UI] (/app/Thumbnail-1.png)
+![UI](app/Thumbnail-1.png)
+

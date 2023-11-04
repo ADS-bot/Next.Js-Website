@@ -2,4 +2,4 @@
 
 ### [Live Site](https://next-js-website-blue.vercel.app/)
 
-![Chat Application](https://ibb.co/0MP2SfC)
+![UI](/thumbnail-1.png)
